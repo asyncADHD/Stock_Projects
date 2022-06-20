@@ -1,0 +1,6 @@
+- Create the storage for the app
+- Create the GUI for the app
+- Create the logic for the app
+- Create the tests for the app
+- Create the README for the app
+- Create the .gitignore file
