@@ -1,0 +1,11 @@
+price | mean | deaviation | devation squared | max | min | variance | standard deviation
+1 | 5.5
+2 | 5.5
+3 | 5.5
+4 | 5.5
+5 | 5.5 
+6 | 5.5
+7 | 5.5
+8 | 5.5
+9 | 5.5
+10 |    5.5
